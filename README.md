@@ -33,8 +33,19 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 
 ### Additional Experience
 
-* 🤖 Tworzę **boty Discord** (eventy, moderacja, integracje API)
-* ⛏️ Programuję **pluginy Minecraft** (**Spigot / Paper / Velocity**)
-* 🔧 Rozwijam systemy serwerowe, komendy, uprawnienia i mechaniki
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft_Plugins-62B47A?style=flat&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spigot-ED8106?style=flat" />
+  <img src="https://img.shields.io/badge/PaperMC-FFFFFF?style=flat&logo=papermc&logoColor=black" />
+  <img src="https://img.shields.io/badge/Velocity-2F7EEA?style=flat" />
+</p>
+
+* 🤖 Projektuję i rozwijam **boty Discord** (moderacja, systemy ticketów, logi, integracje REST API)
+* 🔐 Implementuję **systemy ról, permisji i automatyzacji** dla serwerów Discord
+* ⛏️ Tworzę **pluginy Minecraft** (**Spigot / Paper / Velocity**)
+* ⚙️ Implementuję **customowe mechaniki**, komendy, eventy i systemy uprawnień
+* 📊 Integruję pluginy i boty z **bazami danych** oraz panelami webowymi
+* 🚀 Dbam o **wydajność, skalowalność i bezpieczeństwo** rozwiązań społecznościowych
 
 ---
