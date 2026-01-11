@@ -1,46 +1,65 @@
-## 🚀 JAVA BACKEND DEVELOPER
-Spring Boot • REST APIs • PostgreSQL • MySQL • MongoDB
+<div align="center">
 
-Backend Java Developer skupiony na tworzeniu skalowalnych i wydajnych aplikacji.
-Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produkcji.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
----
+<h1>Hey! I am .commons</h1>
+<h3>Fullstack developer</h3>
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1F305F?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+</div>
 
 ---
 
-## ☕ Java Activity
-![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
+## 🧠 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-1e1e1e?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Bootstrap-1e1e1e?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-1e1e1e?style=for-the-badge&logo=typescript" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-1e1e1e?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-1e1e1e?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Fastify-1e1e1e?style=for-the-badge&logo=fastify" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-1e1e1e?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-1e1e1e?style=for-the-badge&logo=mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Minecraft_Plugins-1e1e1e?style=for-the-badge&logo=java" />
+</p>
 
 ---
 
-## 🧠 What I Do
-- 🔹 Projektuję REST API w Spring Boot
-- 🔹 Implementuję JWT / Spring Security
-- 🔹 Pracuję z bazami danych (PostgreSQL, MySQL, MongoDB, H2, SQLite)
-- 🔹 Stosuję Clean Code, SOLID i dobre praktyki
-- 🔹 Konteneryzuję aplikacje (Docker)
-- 🔹 Tworzę backend gotowy pod production
+## 🛠️ What I Do
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front_End-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Back_End-7c3aed?style=for-the-badge" />
+</p>
 
 ---
 
-## 💼 Featured Projects
-🚀 **Spring Boot REST API** – JWT, role użytkowników, walidacja danych  
-🛒 **E-commerce Backend** – zamówienia, płatności, użytkownicy  
-⚙️ **Microservices Demo** – REST, Docker, konfiguracja
+## 📊 GitHub Stats
 
----
+<div align="center">
 
-## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:p41961378@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=TDE-cpu&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TDE-cpu&theme=tokyonight&hide_border=true" />
 
-> “First make it work. Then make it right. Then make it fast.”
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
