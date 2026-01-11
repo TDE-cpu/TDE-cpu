@@ -26,12 +26,13 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 
 ### Frontend
 
-* 🔹 Tworzę nowoczesne interfejsy użytkownika w **React / Next.js**
-* 🔹 Integruję frontend z REST API
-* 🔹 Dbam o responsywność i UX
-* 🔹 Stosuję **TypeScript** dla bezpieczeństwa typów
+* Tworzę nowoczesne interfejsy użytkownika w **React / Next.js**
+* Integruję frontend z REST API
+* Dbam o responsywność i UX
+* Stosuję **TypeScript** dla bezpieczeństwa typów
 
 ---
+
 ## ☕ Java Activity ![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
 
 ### Additional Experience
