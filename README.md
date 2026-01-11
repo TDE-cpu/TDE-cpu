@@ -31,6 +31,9 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 * 🔹 Dbam o responsywność i UX
 * 🔹 Stosuję **TypeScript** dla bezpieczeństwa typów
 
+---
+## ☕ Java Activity ![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
+
 ### Additional Experience
 
 <p align="left">
