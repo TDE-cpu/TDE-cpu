@@ -2,6 +2,17 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=TDE-cpu&label=Odwiedzający&color=0e75b6&style=for-the-badge" alt="Licznik odwiedzających" />
 </a>
 
+## 🚀 FULL STACK DEVELOPER (JAVA BACKEND FOCUSED)
+
+**Spring Boot • REST APIs • PostgreSQL • MySQL • MongoDB**
+
+Full Stack Developer skoncentrowany na tworzeniu **skalowalnych, wydajnych i bezpiecznych aplikacji webowych** — od warstwy backendowej po interfejs użytkownika.
+
+Specjalizuję się w **Java Backend (Spring Boot)**, ale swobodnie poruszam się również po **Frontendzie**, dbając o spójność, wydajność i jakość całego systemu.
+Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **gotowe do wdrożeń produkcyjnych**.
+
+---
+
 ## 🛠️ Technologie i narzędzia
 
 <div align="center">
@@ -58,34 +69,17 @@
   <samp>
     <a href="https://discord.gg/firecode"> ???</a>
     <br>
-    「 Specjalizuję się w tworzeniu zaawansowanych pluginów i systemów dla serwerów Minecraft 」
+    「 Specjalizuję się w Najnowszych technologiach. 」
     <br>
     <br>
   </samp>
 </p>
 
-## 💫 O mnie
-
-- 🎮 Tworzę zaawansowane pluginy dla serwerów Minecraft od ponad 7 lat
-- 💼 Założyciel i główny DEV **???**
-- 🚀 Specjalizuję się w planowaniu i tworzeniu niestandardowych mechanik
-- 💡 Uwielbiam tworzyć innowacyjne rozwiązania, które przekraczają standardowe możliwości Minecrafta
-- 🔥 Wiele najpopularniejszych serwerów minecraft w Polsce korzysta z moich pluginów
+## ☕ Java Activity ![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ccff&height=120&section=footer" width="100%" alt="Wave Footer" />
 </div>
-
-## 🚀 FULL STACK DEVELOPER (JAVA BACKEND FOCUSED)
-
-**Spring Boot • REST APIs • PostgreSQL • MySQL • MongoDB**
-
-Full Stack Developer skoncentrowany na tworzeniu **skalowalnych, wydajnych i bezpiecznych aplikacji webowych** — od warstwy backendowej po interfejs użytkownika.
-
-Specjalizuję się w **Java Backend (Spring Boot)**, ale swobodnie poruszam się również po **Frontendzie**, dbając o spójność, wydajność i jakość całego systemu.
-Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **gotowe do wdrożeń produkcyjnych**.
-
----
 
 ## 🛠️ Tech Stack
 
