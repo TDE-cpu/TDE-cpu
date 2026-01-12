@@ -53,8 +53,6 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 
 ## 📊 Aktywność
 
-![TDE-cpu](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&custom_title=TDE-cpu%20Wykres%20Aktywności%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=500&lines=TDE-cpu;Developer+Pluginów+Minecraft;???;Java+%26+Spigot+Enthusiast" alt="Typing SVG" />
 </div>
