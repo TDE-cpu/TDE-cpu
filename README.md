@@ -66,8 +66,6 @@
 
 ## 💫 O mnie
 
-<img align="right" width="200" src="https://imgur.com/2JpH6fZ.png" alt="Minecraft coding gif" />
-
 - 🎮 Tworzę zaawansowane pluginy dla serwerów Minecraft od ponad 7 lat
 - 💼 Założyciel i główny DEV **???**
 - 🚀 Specjalizuję się w planowaniu i tworzeniu niestandardowych mechanik
