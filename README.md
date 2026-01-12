@@ -76,39 +76,7 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ccff&height=120&section=footer" width="100%" alt="Wave Footer" />
 </div>
 
-## 🛠️ Tech Stack
-
-### Backend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2-1F305F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### Frontend
-
-* Tworzę nowoczesne interfejsy użytkownika w **React / Next.js**
-* Integruję frontend z REST API
-* Dbam o responsywność i UX
-* Stosuję **TypeScript** dla bezpieczeństwa typów
-
 ---
-
-### Additional Experience
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft_Plugins-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PaperMC-FFFFFF?style=for-the-badge&logo=papermc&logoColor=black" />
-  <img src="https://img.shields.io/badge/Velocity-2F7EEA?style=for-the-badge" />
-</p>
 
 ## 📫 Contact
 
