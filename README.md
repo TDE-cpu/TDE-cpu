@@ -2,47 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=TDE-cpu&label=Odwiedzający&color=0e75b6&style=for-the-badge" alt="Licznik odwiedzających" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/b665d1c4-43b1-4b9a-8376-b43adb7f7691.svg)](https://wakatime.com/@b665d1c4-43b1-4b9a-8376-b43adb7f7691)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=500&lines=TDE-cpu;Developer+Pluginów+Minecraft;???;Java+%26+Spigot+Enthusiast" alt="Typing SVG" />
-</div>
-
-<h3 align="center">
-  <samp>&gt; Cześć, jestem Jakub znany jako
-    <b><a target="_blank" href="https://www.youtube.com/@TDE-cpu">TDE-cpu</a></b>
-  </samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    <a href="https://discord.gg/fastcode">🚀 ???</a>
-    <br>
-    「 Specjalizuję się w tworzeniu zaawansowanych pluginów i systemów dla serwerów Minecraft 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/fastcode" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0080ff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/@TDE-cpu" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-ff2e2e?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
-  </a>
-</p>
-
-## 💫 O mnie
-
-<img align="right" width="200" src="https://imgur.com/2JpH6fZ.png" alt="Minecraft coding gif" />
-
-- 🎮 Tworzę zaawansowane pluginy dla serwerów Minecraft od ponad 7 lat
-- 💼 Założyciel i główny DEV **???**
-- 🚀 Specjalizuję się w planowaniu i tworzeniu niestandardowych mechanik
-- 💡 Uwielbiam tworzyć innowacyjne rozwiązania, które przekraczają standardowe możliwości Minecrafta
-- 🔥 Wiele najpopularniejszych serwerów minecraft w Polsce korzysta z moich pluginów
-
 ## 🛠️ Technologie i narzędzia
 
 <div align="center">
@@ -85,6 +44,35 @@
 
 ![TDE-cpu](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&custom_title=TDE-cpu%20Wykres%20Aktywności%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=500&lines=TDE-cpu;Developer+Pluginów+Minecraft;???;Java+%26+Spigot+Enthusiast" alt="Typing SVG" />
+</div>
+
+<h3 align="center">
+  <samp>&gt; Cześć, jestem Piotr znany jako obszernie .commons
+    <b><a target="_blank" href="https://www.youtube.com/@TDE-cpu">TDE-cpu</a></b>
+  </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    <a href="https://discord.gg/firecode"> ???</a>
+    <br>
+    「 Specjalizuję się w tworzeniu zaawansowanych pluginów i systemów dla serwerów Minecraft 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+## 💫 O mnie
+
+<img align="right" width="200" src="https://imgur.com/2JpH6fZ.png" alt="Minecraft coding gif" />
+
+- 🎮 Tworzę zaawansowane pluginy dla serwerów Minecraft od ponad 7 lat
+- 💼 Założyciel i główny DEV **???**
+- 🚀 Specjalizuję się w planowaniu i tworzeniu niestandardowych mechanik
+- 💡 Uwielbiam tworzyć innowacyjne rozwiązania, które przekraczają standardowe możliwości Minecrafta
+- 🔥 Wiele najpopularniejszych serwerów minecraft w Polsce korzysta z moich pluginów
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ccff&height=120&section=footer" width="100%" alt="Wave Footer" />
