@@ -7,6 +7,8 @@
 ## 🚀 Projects
 * **WorldCube.PL** (1k+)
 * **OrkaMC.PL** (1.5k+)
+* **SetMC.PL** (2.0k+)
+* **Zentoria.PL** (1.0k+)
 * I Wiele wiele wiecej projektów.
 
 ---
